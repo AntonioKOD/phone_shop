@@ -42,7 +42,7 @@ export function Pricing() {
             Water Damage
           </h2>
           <p className="mt-4 max-w-[26rem] text-left  text-base/6 text-neutral-200">
-            Dropped your device in water? We'll assess and repair the damage, bringing your device back to life.
+            Dropped your device in water? We&apos;ll assess and repair the damage, bringing your device back to life.
           </p>
         </div>
         <Image
@@ -59,7 +59,7 @@ export function Pricing() {
             Check Out Our Other Services
           </h2>
           <p className="mt-4 max-w-[26rem] text-left  text-base/6 text-neutral-200">
-            If youre interested on other services for your devices click{""} 
+            If youre interested on other services for your devices click{" "} 
             <Sheet>here.</Sheet>
           </p>
         </div>
